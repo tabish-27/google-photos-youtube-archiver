@@ -1,0 +1,7 @@
+credentials.json
+token.json
+upload_log.csv
+takeout_processed_zips.txt
+takeout_tmp/
+__pycache__/
+*.pyc
